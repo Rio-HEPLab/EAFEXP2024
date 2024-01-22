@@ -1,4 +1,5 @@
-// g++ -o test_scaler test_scaler.cc -lCAENVME 
+// g++ -o test-scaler test-scaler.cc -lCAENVME 
+// to run: ./test-scaler
 //
 
 #include <stdlib.h>
