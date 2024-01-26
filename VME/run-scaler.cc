@@ -20,7 +20,7 @@ int main(int argc, char **argv)
    const char* Filename = "Output_scaler.dat";
    if ( argc > 1 )
    {
-      Filename = argv[2]; 
+      Filename = argv[1]; 
    }
    printf( "INFO: Output file name: %s\n", Filename );
 
